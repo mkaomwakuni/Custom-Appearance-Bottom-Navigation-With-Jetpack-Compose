@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Custom_appearance_bottom_navigation_with_jetpack_compose" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Custom" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
